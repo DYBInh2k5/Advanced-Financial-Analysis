@@ -1,0 +1,16 @@
+# Template cho API Keys
+# Copy file này thành api-keys.txt và điền thông tin thực
+
+# Alpha Vantage API Key (miễn phí tại https://www.alphavantage.co/support/#api-key)
+ALPHA_VANTAGE_KEY=your_api_key_here
+
+# FRED API Key (tùy chọn, miễn phí tại https://fred.stlouisfed.org/docs/api/api_key.html)
+FRED_API_KEY=your_fred_key_here
+
+# Quandl API Key (tùy chọn)
+QUANDL_API_KEY=your_quandl_key_here
+
+# Lưu ý: 
+# - Không commit file api-keys.txt vào git
+# - Thêm api-keys.txt vào .gitignore
+# - Giữ bí mật API keys của bạn
